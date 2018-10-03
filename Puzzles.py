@@ -16,7 +16,7 @@ def sum28(nums):
     if nums == 28: 
         return True
     else:
-        return False;
+        return False
 
 
 #=================ONLY~14==================/
